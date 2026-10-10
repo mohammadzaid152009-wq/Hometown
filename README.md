@@ -142,5 +142,3 @@ Interactive Map View: Geographic visualization of hometown communities and activ
 Push Notifications: Web Push API and PWA installation to deliver urgent municipal alerts directly to mobile devices.
 Local Artisan Marketplace: Integration with payments to support hometown makers, craftsmen, and local harvests.
 Multilingual Localization: Support for regional Indian languages (e.g., Kannada, Hindi, Marathi) alongside English.
-
-[https://github.com/your-org/hometown-hub/blob/main/PROJECT_REPORT.md](https://github.com/your-org/hometown-hub/blob/main/PROJECT_REPORT.md)
