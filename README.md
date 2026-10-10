@@ -134,7 +134,7 @@ Spam & Abuse Protection: Moderation report queues allow community members to fla
 Credential Isolation: Passwords and tokens are managed directly by Supabase Auth / Google OAuth; no credentials enter client-side state.
 8. Summary & Strategic Recommendations
 Current Achievements
-Robust functional MVP deployed and live at https://hometownhubdigitalplatform.lovable.app.
+Robust functional MVP deployed and live
 Complete end-to-end user journeys for feed posting, event RSVP, community discovery, and moderation.
 Production-ready database schema ready for scale.
 Future Roadmap
@@ -142,3 +142,5 @@ Interactive Map View: Geographic visualization of hometown communities and activ
 Push Notifications: Web Push API and PWA installation to deliver urgent municipal alerts directly to mobile devices.
 Local Artisan Marketplace: Integration with payments to support hometown makers, craftsmen, and local harvests.
 Multilingual Localization: Support for regional Indian languages (e.g., Kannada, Hindi, Marathi) alongside English.
+
+[https://github.com/your-org/hometown-hub/blob/main/PROJECT_REPORT.md](https://github.com/your-org/hometown-hub/blob/main/PROJECT_REPORT.md)
